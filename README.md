@@ -45,16 +45,16 @@ En este caso subo dos proyectosClientes para provar la conexion con multiples cl
 
 2º. El proyecto de la Actividad2Servidor se queda a la espera de que el proyecto de la Actividad3Cliente solicite una conexion.
 
-img
-
 3º. Al ejecutar el proyecto Actividad2Cliente el programa nos pide que pongamos un usuario (Diego) y una contraseña (1234).
 
-4º. El servidor valida el usuario y la contraseña introducida y nos pide que le pongamos una ruta para que la pueda examinar el servidor y asi pasar la relacion de archivos al cliente.
+![Captura1](https://user-images.githubusercontent.com/44735067/54058717-fe8e2700-41f6-11e9-883d-5b949c53fb64.PNG)
 
-img
+4º. El servidor valida el usuario y la contraseña introducida y nos pide que le pongamos una ruta para que la pueda examinar el servidor.
+
+![Captura2](https://user-images.githubusercontent.com/44735067/54058759-1cf42280-41f7-11e9-81a2-9b5af851316c.PNG)
 
 5º. En cuanto especificamos una ruta para que el servidor pueda examinarla entonces le envia al cliente una relacion de su contenido.
 
-img
+![Captura3](https://user-images.githubusercontent.com/44735067/54058800-3a28f100-41f7-11e9-83c2-6f7cfe7404e6.PNG)
 
 En este caso subo dos proyectosClientes para provar la conexion con multiples clientes
